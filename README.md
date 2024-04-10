@@ -8,4 +8,4 @@ More interesting info
 
 ## This is a new header
 
-Made some kinf of edit here
+Made some kind of edit here
